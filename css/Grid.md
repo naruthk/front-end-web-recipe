@@ -38,6 +38,23 @@ The best tool to use to analyze CSS Grid is **Firefox Developer Edition**.
 
 ---
 
+## Tips & Tricks
+
+- Use `fr` (fractional) as a unit. It represents the amount of space left after all the elements are laid out.
+
+  Here's how it works. We can do this:
+  ```css
+  .container {
+    display: grid;
+    grid-template-columns: 200px 2fr 1fr;
+  }
+  ```
+  Here's what `grid-template-columns: 200px 2fr 1fr` does:
+    1. The first column takes up 200px in terms of width.
+    2. For the rest of the space, 2 columns will share that total width, but not equally. That's because the 2nd column will be twice the width of the last column.
+
+---
+
 ## Properties
 
 ### `display:grid`
@@ -78,6 +95,8 @@ A value you can provide here is either `row` or `column`.
 
 For instance, we have:
 
+![Without Grid Auto Flow](without-grid-auto-flow.png)
+
 ```html
 <div class="container">
   <div class="item">1</div>
@@ -94,7 +113,7 @@ For instance, we have:
 }
 ```
 
-We explicitly stated the width for 2 columns, but in our HTML, we have another item (`<div class="item">3</div>`). 
+We explicitly stated the width for 2 columns, but in our HTML, we have another item (`<div class="item">3</div>`).
 
 To define the width for an implicitly created column, we add more CSS properties to our `.container` class:
 
@@ -109,6 +128,10 @@ To define the width for an implicitly created column, we add more CSS properties
   grid-auto-column: 200px;
 }
 ```
+
+Look what happens now.
+
+![With Grid Auto Flow](with-grid-auto-flow.png)
 
 Now the browser knows that it will now let each item in an implicitly created column have a width of `200px`.
 
@@ -161,3 +184,5 @@ Observe that we have 2 columns, but we have a container with 6 `<div>`s. This fo
 ## Explicit Grids
 
 An **explicit grid** defines the region where the first row of the CSS grid starts and the last row that the CSS grid ends.
+
+---

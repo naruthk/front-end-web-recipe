@@ -1,16 +1,16 @@
-# Front End Web Recipe 🔥
+# Front End Web Recipe
 
-My notes, thoughts, and code snippets for things related to website development.
+My notes, thoughts, and code snippets for possibly anything related to website development and computer science.
 
-This repository is a living-document. If I got something from other sources, I will provide credits.
+This repository is a living-document. It will continue to grow!
 
 ---
 
 ## Topics
 
-### JavaScript
+### 🔥 JavaScript
 
-For resources related to this programming language, see [here](/javascript/Resources.md)
+**Resources:** [here](/javascript/Resources.md)
 
 - [Arrays: ForEach](/javascript/Arrays_forEach.md)
 - [Arrays](/javascript/Arrays.md)
@@ -27,10 +27,23 @@ For resources related to this programming language, see [here](/javascript/Resou
 
 Most of what I learn about JavaScript come from **Zell Liew**, author and teacher of several things related to JavaScript. Thanks, Zell!
 
-### CSS
+### 🔥 CSS
 
 - [Box Sizing](/css/BoxSizing.md)
 - [Grid](/css/Grid.md)
 - [Using Variables](/css/UsingVar.md)
 
-Thanks to **Wes Bos** for teaching me how CSS Grid works.
+### 🔥 Computer Science
+
+- [Big O](/comsci/algorithms/Big-O.md)
+- [Popular Data Strutures](/comsci/data-structures/index.md)
+
+### 🔥 Programming Questions
+
+**Companies:**
+
+- [Agoda](/interview/companies/Agoda.md)
+
+**Topics**:
+
+- [JavaScript](/interview/languages/JavaScript.md)
