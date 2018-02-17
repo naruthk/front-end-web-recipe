@@ -10,8 +10,6 @@ This repository is a living-document. It will continue to grow!
 
 ### 🔥 JavaScript
 
-**Resources:** [here](/javascript/Resources.md)
-
 - [Arrays: ForEach](/javascript/Arrays_forEach.md)
 - [Arrays](/javascript/Arrays.md)
 - [Attributes](/javascript/Attributes.md)
@@ -27,6 +25,8 @@ This repository is a living-document. It will continue to grow!
 
 Most of what I learn about JavaScript come from **Zell Liew**, author and teacher of several things related to JavaScript. Thanks, Zell!
 
+Interested in frameworks / libraries? Here are some of the important ones I think you should know for 2018: React, Vue.JS, Angular, Amber, Express, GraphQL, MongoDB, JEST, and Mocha
+
 ### 🔥 CSS
 
 - [Box Sizing](/css/BoxSizing.md)
@@ -36,14 +36,18 @@ Most of what I learn about JavaScript come from **Zell Liew**, author and teache
 ### 🔥 Computer Science
 
 - [Big O](/comsci/algorithms/Big-O.md)
-- [Popular Data Strutures](/comsci/data-structures/index.md)
+- [Popular Data Strutures](/comsci/data-structures/index.md]
 
 ### 🔥 Programming Questions
 
-**Companies:**
+**By Books**
+
+- [Cracking The Coding Interview](/interview/books/cracking-the-coding-interview/ch01/index.md)
+
+**By Companies**
 
 - [Agoda](/interview/companies/Agoda.md)
 
-**Topics**:
+**By Topics**
 
 - [JavaScript](/interview/languages/JavaScript.md)
