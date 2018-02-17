@@ -1,8 +1,8 @@
-# Front End Web Recipe
+# 🔖 Front End Web Recipe
 
-My notes, thoughts, and code snippets for possibly anything related to website development and computer science.
+Since the start of February 2018, I began studying a wide range of topics in front end web development, including the core subjects like JavaScript and CSS. As I continue my study, I keep Markdown documents of my notes and programming snippets so that I can easily come back and look through them.
 
-This repository is a living-document. It will continue to grow!
+I intentionally set the repository to public, hoping that other people will find the resources helpful in some ways. Please know that this repository will keep on expanding. If you find any section with mistakes, feel free to make a pull request. Thank you.
 
 ---
 
