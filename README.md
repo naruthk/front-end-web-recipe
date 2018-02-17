@@ -23,22 +23,26 @@ This repository is a living-document. It will continue to grow!
 - [Traversing the DOM](/javascript/Traversing_the_DOM.md)
 - [Truthy and Falsey](/javascript/Truthy_Falsey.md)
 
-Most of what I learn about JavaScript come from **Zell Liew**, author and teacher of several things related to JavaScript. Thanks, Zell!
+I picked up JavaScript after learning about it from **[Zell Liew](https://zellwk.com/)** and his course [Learn JavaScript](https://learnjavascript.today/)!
 
-Interested in frameworks / libraries? Here are some of the important ones I think you should know for 2018: React, Vue.JS, Angular, Amber, Express, GraphQL, MongoDB, JEST, and Mocha
+**Interested in frameworks / libraries?** Here are some of the important ones I think you should know for 2018: React, Vue.JS, Angular, Amber, Express, GraphQL, MongoDB, JEST, and Mocha
 
-### 🔥 CSS
+### 😃 CSS
 
 - [Box Sizing](/css/BoxSizing.md)
 - [Grid](/css/Grid.md)
 - [Using Variables](/css/UsingVar.md)
 
-### 🔥 Computer Science
+### 🚀 jQuery
+
+- [Basic](/jquery/Basic.md)
+
+### 💻 Computer Science
 
 - [Big O](/comsci/algorithms/Big-O.md)
 - [Popular Data Strutures](/comsci/data-structures/index.md)
 
-### 🔥 Programming Questions
+### 📕 Programming Questions
 
 **By Books**
 
