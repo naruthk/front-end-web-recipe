@@ -36,7 +36,7 @@ Interested in frameworks / libraries? Here are some of the important ones I thin
 ### 🔥 Computer Science
 
 - [Big O](/comsci/algorithms/Big-O.md)
-- [Popular Data Strutures](/comsci/data-structures/index.md]
+- [Popular Data Strutures](/comsci/data-structures/index.md)
 
 ### 🔥 Programming Questions
 
