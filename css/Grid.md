@@ -1,8 +1,27 @@
 # CSS Grid
 
-I learned CSS Grid through a course that Wes Bos teaches: [cssgrid.io](cssgrid.io). Please visit his site and support his work. He's an awesome teacher and web developer! 🔥
+<!-- TOC -->
 
-Most of my images are all obtained from his course's online repository, hosted on GitHub which you can access [here](https://github.com/wesbos/css-grid).
+- [CSS Grid](#css-grid)
+  - [What Is It](#what-is-it)
+  - [Setting Up](#setting-up)
+  - [Tips & Tricks](#tips--tricks)
+  - [Properties](#properties)
+    - [`display:grid`](#displaygrid)
+    - [`grid-template-columns`](#grid-template-columns)
+    - [`grid-template-rows`](#grid-template-rows)
+    - [`grid-gap`](#grid-gap)
+    - [`grid-auto-rows`](#grid-auto-rows)
+    - [`grid-auto-columns`](#grid-auto-columns)
+    - [`grid-auto-flow`](#grid-auto-flow)
+  - [Firefox Developer Edition's DevTools](#firefox-developer-editions-devtools)
+    - [Grid Numbering](#grid-numbering)
+    - [Types of Lines](#types-of-lines)
+  - [Implicit Grids / Implicit Rows](#implicit-grids--implicit-rows)
+  - [Explicit Grids](#explicit-grids)
+  - [Resources](#resources)
+
+<!-- /TOC -->
 
 ---
 
@@ -186,3 +205,9 @@ Observe that we have 2 columns, but we have a container with 6 `<div>`s. This fo
 An **explicit grid** defines the region where the first row of the CSS grid starts and the last row that the CSS grid ends.
 
 ---
+
+## Resources
+
+I learned CSS Grid through a course that Wes Bos teaches: [cssgrid.io](cssgrid.io). Please visit his site and support his work. He's an awesome teacher and web developer! 🔥
+
+Images displayed in this document were created by Wes Bos for his [CSS Grid course](https://github.com/wesbos/css-grid).

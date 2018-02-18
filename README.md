@@ -8,8 +8,8 @@ I intentionally set the repository to public, hoping that other people will find
 
 ## 🔥 JavaScript
 
-- [Arrays: ForEach](/javascript/Arrays_forEach.md)
 - [Arrays](/javascript/Arrays.md)
+- [Arrays: ForEach](/javascript/Arrays_forEach.md)
 - [Attributes](/javascript/Attributes.md)
 - [DOM](/javascript/DOM.md)
 - [Events Listener](/javascript/Events-Listener.md)
@@ -20,6 +20,7 @@ I intentionally set the repository to public, hoping that other people will find
 - [Null and Undefined](/javascript/Null_Undefined.md)
 - [Objects](/javascript/Objects.md)
 - [Scopes and Closures](/javascript/Scopes_Closures.md)
+- [Switch Statements](/javascript/Switch.md)
 - [Traversing the DOM](/javascript/Traversing_the_DOM.md)
 - [Truthy and Falsey](/javascript/Truthy_Falsey.md)
 
@@ -50,8 +51,8 @@ I picked up JavaScript after learning about it from **[Zell Liew](https://zellwk
 
 **General Topics**
 
-- [Binary](/comsci/General/Binary.md)
-- [Concurrency](/comsci/General/Concurrency.md)
+- [Binary](/comsci/general/Binary.md)
+- [Concurrency](/comsci/general/Concurrency.md)
 
 I would highly recommend reading this blog post titled [40 Key Computer Science Concepts Explained in Layman's Term](http://carlcheo.com/compsci)
 
