@@ -39,8 +39,18 @@ I picked up JavaScript after learning about it from **[Zell Liew](https://zellwk
 
 ### 💻 Computer Science
 
+**Algorithms**
+
 - [Big O](/comsci/algorithms/Big-O.md)
-- [Popular Data Strutures](/comsci/data-structures/index.md)
+- [Recursions](/comsci/algorithms/Recursions.md)
+
+**Data Structures**
+
+- [Popular Data Structures](/comsci/data-structures/index.md)
+
+**General Topics**
+
+- [Binary](/comsci/Binary.md)
 
 ### 📕 Programming Questions
 
