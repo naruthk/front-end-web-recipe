@@ -15,7 +15,7 @@ I intentionally set the repository to public, hoping that other people will find
 - [Attributes](/javascript/Attributes.md)
 - [DOM](/javascript/DOM.md)
 - [Events Listener](/javascript/Events-Listener.md)
-- [Events Propagation](/javascript/Events- Propagation.md)
+- [Events Propagation](/javascript/Events-Propagation.md)
 - [Functions](/javascript/Functions.md)
 - [Implicit Conversions](/javascript/Implicit_Conversions.md)
 - [Nodes](/javascript/Nodes.md)
