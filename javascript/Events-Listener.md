@@ -1,6 +1,6 @@
-# Events
+# Event Listeners
 
-## Events Listener
+Remember that **event listeners** take up memory!
 
 Full list of events in MDN's [Event Reference](https://developer.mozilla.org/en-US/docs/Web/Events).
 

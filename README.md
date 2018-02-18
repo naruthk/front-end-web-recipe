@@ -14,6 +14,8 @@ I intentionally set the repository to public, hoping that other people will find
 - [Arrays](/javascript/Arrays.md)
 - [Attributes](/javascript/Attributes.md)
 - [DOM](/javascript/DOM.md)
+- [Events Listener](/javascript/Events-Listener.md)
+- [Events Propagation](/javascript/Events- Propagation.md)
 - [Functions](/javascript/Functions.md)
 - [Implicit Conversions](/javascript/Implicit_Conversions.md)
 - [Nodes](/javascript/Nodes.md)
@@ -50,7 +52,10 @@ I picked up JavaScript after learning about it from **[Zell Liew](https://zellwk
 
 **General Topics**
 
-- [Binary](/comsci/Binary.md)
+- [Binary](/comsci/General/Binary.md)
+- [Concurrency](/comsci/General/Concurrency.md)
+
+I would highly recommend reading this blog post titled [40 Key Computer Science Concepts Explained in Layman's Term](http://carlcheo.com/compsci)
 
 ### 📕 Programming Questions
 
