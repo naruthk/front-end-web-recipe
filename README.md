@@ -10,11 +10,11 @@ My notes aren't perfect. If you find any typo or parts with mistakes, please mak
 
 - [🚀 The Web and Mobile Developer Help Book 🚀](#%F0%9F%9A%80-the-web-and-mobile-developer-help-book-%F0%9F%9A%80)
     - [Web Development](#web-development)
-        - [JavaScript 🔥](#javascript-%F0%9F%94%A5)
-        - [CSS 😃](#css-%F0%9F%98%83)
-        - [jQuery 🚀](#jquery-%F0%9F%9A%80)
-    - [Computer Science 💻](#computer-science-%F0%9F%92%BB)
-    - [Programming Questions 📕](#programming-questions-%F0%9F%93%95)
+        - [JavaScript](#javascript)
+        - [CSS](#css)
+        - [jQuery](#jquery)
+    - [Computer Science](#computer-science)
+    - [Programming Questions](#programming-questions)
     - [Mobile Development](#mobile-development)
 
 <!-- /TOC -->
@@ -23,7 +23,7 @@ My notes aren't perfect. If you find any typo or parts with mistakes, please mak
 
 ## Web Development
 
-### JavaScript 🔥
+### JavaScript
 
 - [Arrays](/javascript/Arrays.md)
 - [Arrays: ForEach](/javascript/Arrays_forEach.md)
@@ -45,17 +45,17 @@ I picked up JavaScript after learning about it from **[Zell Liew](https://zellwk
 
 **Interested in frameworks / libraries?** Here are some of the important ones I think you should know for 2018: React, Vue.JS, Angular, Amber, Express, GraphQL, MongoDB, JEST, and Mocha
 
-### CSS 😃
+### CSS
 
 - [Box Sizing](/css/BoxSizing.md)
 - [Grid](/css/Grid.md)
 - [Using Variables](/css/UsingVar.md)
 
-### jQuery 🚀
+### jQuery
 
 - [Basic](/jquery/Basic.md)
 
-## Computer Science 💻
+## Computer Science
 
 **Algorithms**
 
@@ -80,7 +80,7 @@ Any not in the list can be find [here](/comsci/data-structures/General.md).
 
 I would highly recommend reading this blog post titled [40 Key Computer Science Concepts Explained in Layman's Term](http://carlcheo.com/compsci)
 
-## Programming Questions 📕
+## Programming Questions
 
 **By Books**
 
