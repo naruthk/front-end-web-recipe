@@ -1,6 +1,6 @@
-# 🚀 The Web and Mobile Developer Help Book 🚀
+# 🚀 The Web Developer Help Book 🚀
 
-**Since the start of February 2018,** I began subscribing to publishing sites like Smashing Magazine, HackerNoon, Medium, and freeCodeCamp via email and Twitter. As more email messages flooded in with articles to read, I took time (lots of time) to absorb the information. In doing so, I thought that taking notes was fundamental to ensure I have the information locked down somewhere. I didn't want to be just a passive reader.
+**Since the start of February 2018,** I began subscribing to publishing sites like Smashing Magazine, HackerNoon, Medium, and freeCodeCamp via email and Twitter. As more email messages flooded in with articles to read, I took time (lots of time) to absorb the information. In doing so, I thought that **taking notes was fundamental to ensure I have the information locked down somewhere.** I didn't want to be just a passive reader.
 
 **So ever since then**, I frequently publish new Markdown documents of various topics to this repository and intentionally set this repository to public. I hope that by doing so other people will find the resources helpful in some ways. Please know that this repository will keep on expanding.
 
