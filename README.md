@@ -8,14 +8,13 @@ My notes aren't perfect. If you find any typo or parts with mistakes, please mak
 
 <!-- TOC -->
 
-- [🚀 The Web and Mobile Developer Help Book 🚀](#%F0%9F%9A%80-the-web-and-mobile-developer-help-book-%F0%9F%9A%80)
+- [🚀 The Web Developer Help Book 🚀](#%F0%9F%9A%80-the-web-developer-help-book-%F0%9F%9A%80)
     - [Web Development](#web-development)
         - [JavaScript](#javascript)
         - [CSS](#css)
         - [jQuery](#jquery)
     - [Computer Science](#computer-science)
     - [Programming Questions](#programming-questions)
-    - [Mobile Development](#mobile-development)
 
 <!-- /TOC -->
 
