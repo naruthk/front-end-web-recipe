@@ -37,4 +37,3 @@ for (let i = fruitBasket.length - 1; i >= 0; i--) {
 const paragraphs = document.querySelectorAll('p')
 paragraphs.forEach(element => element.style.color = 'red')
 ```
-
