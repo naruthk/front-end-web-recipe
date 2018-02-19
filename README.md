@@ -1,22 +1,20 @@
-# 🚀 Web and Mobile Resources 🚀
+# 🚀 The Web and Mobile Developer Help Book 🚀
 
-Guides, tutorials, articles, links, resources...whatever you wish to call it.
+**Since the start of February 2018,** I began subscribing to publishing sites like Smashing Magazine, HackerNoon, Medium, and freeCodeCamp via email and Twitter. As more email messages flooded in with articles to read, I took time (lots of time) to absorb the information. In doing so, I thought that taking notes was fundamental to ensure I have the information locked down somewhere. I didn't want to be just a passive reader.
 
-Since the start of February 2018, I began subscribing to publishing site like Smashing Magazine, HackerNoon, Medium, and freeCodeCamp. As more email messages flooded in with articles to read, I took time (lots of time) to absorb the information. In doing so, I thought that taking notes was fundamental to ensure I have the information locked down somewhere. I didn't want to be just a passive reader.
+**So ever since then**, I frequently publish new Markdown documents of various topics to this repository and intentionally set this repository to public. I hope that by doing so other people will find the resources helpful in some ways. Please know that this repository will keep on expanding.
 
-So ever since then, I frequently post Markdown documents to this repository and intentionally set this repository to public. I hope that by doing so other people will find the resources helpful in some ways. Please know that this repository will keep on expanding.
-
-My notes aren't perfect. If you find any typo or parts with mistakes, please make a pull request. Thank you.
+My notes aren't perfect. If you find any typo or parts with mistakes, please make a pull request. I'll make sure to take a look at it. Thank you.
 
 <!-- TOC -->
 
-- [🚀 Web and Mobile Resources 🚀](#%F0%9F%9A%80-web-and-mobile-resources-%F0%9F%9A%80)
+- [🚀 The Web and Mobile Developer Help Book 🚀](#%F0%9F%9A%80-the-web-and-mobile-developer-help-book-%F0%9F%9A%80)
     - [Web Development](#web-development)
-        - [🔥 JavaScript](#%F0%9F%94%A5-javascript)
-        - [😃 CSS](#%F0%9F%98%83-css)
-        - [🚀 jQuery](#%F0%9F%9A%80-jquery)
-    - [💻 Computer Science](#%F0%9F%92%BB-computer-science)
-    - [📕 Programming Questions](#%F0%9F%93%95-programming-questions)
+        - [JavaScript 🔥](#javascript-%F0%9F%94%A5)
+        - [CSS 😃](#css-%F0%9F%98%83)
+        - [jQuery 🚀](#jquery-%F0%9F%9A%80)
+    - [Computer Science 💻](#computer-science-%F0%9F%92%BB)
+    - [Programming Questions 📕](#programming-questions-%F0%9F%93%95)
     - [Mobile Development](#mobile-development)
 
 <!-- /TOC -->
@@ -25,7 +23,7 @@ My notes aren't perfect. If you find any typo or parts with mistakes, please mak
 
 ## Web Development
 
-### 🔥 JavaScript
+### JavaScript 🔥
 
 - [Arrays](/javascript/Arrays.md)
 - [Arrays: ForEach](/javascript/Arrays_forEach.md)
@@ -47,17 +45,17 @@ I picked up JavaScript after learning about it from **[Zell Liew](https://zellwk
 
 **Interested in frameworks / libraries?** Here are some of the important ones I think you should know for 2018: React, Vue.JS, Angular, Amber, Express, GraphQL, MongoDB, JEST, and Mocha
 
-### 😃 CSS
+### CSS 😃
 
 - [Box Sizing](/css/BoxSizing.md)
 - [Grid](/css/Grid.md)
 - [Using Variables](/css/UsingVar.md)
 
-### 🚀 jQuery
+### jQuery 🚀
 
 - [Basic](/jquery/Basic.md)
 
-## 💻 Computer Science
+## Computer Science 💻
 
 **Algorithms**
 
@@ -82,7 +80,7 @@ Any not in the list can be find [here](/comsci/data-structures/General.md).
 
 I would highly recommend reading this blog post titled [40 Key Computer Science Concepts Explained in Layman's Term](http://carlcheo.com/compsci)
 
-## 📕 Programming Questions
+## Programming Questions 📕
 
 **By Books**
 
