@@ -93,7 +93,3 @@ I would highly recommend reading this blog post titled [40 Key Computer Science 
 **By Topics**
 
 - [JavaScript](/interview/languages/JavaScript.md)
-
-## Mobile Development
-
-Coming soon
