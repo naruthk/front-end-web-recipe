@@ -11,12 +11,13 @@ My notes aren't perfect. If you find any typo or parts with mistakes, please mak
 <!-- TOC -->
 
 - [🚀 The Web Developer Help Book 🚀](#%F0%9F%9A%80-the-web-developer-help-book-%F0%9F%9A%80)
-    - [Web Development](#web-development)
-        - [JavaScript](#javascript)
-        - [CSS](#css)
-        - [jQuery](#jquery)
-    - [Computer Science](#computer-science)
-    - [Programming Questions](#programming-questions)
+  - [Web Development](#web-development)
+    - [JavaScript](#javascript)
+    - [CSS](#css)
+    - [jQuery](#jquery)
+  - [Computer Science](#computer-science)
+  - [Programming Questions](#programming-questions)
+  - [Jobs](#jobs)
 
 <!-- /TOC -->
 
@@ -94,3 +95,9 @@ I would highly recommend reading this blog post titled [40 Key Computer Science 
 **By Topics**
 
 - [JavaScript](/interview/languages/JavaScript.md)
+
+## Jobs
+
+This section focuses on how to navigate the job market, what to ask before/during/after an interview, and so on. It is not technical.
+
+- [Basic Questions To Ask During An Interview](/jobs/Basic-Questions-To-Ask-During-Interview.md)
